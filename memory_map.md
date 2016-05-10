@@ -3,7 +3,7 @@ MSM8960 Memory Map
 
 MSM 8960存储器映射如下图所示:
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/res/memory_map.png
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/res/memory_map.png
 
 32位地址总共4GB的地址空间.
 
@@ -21,7 +21,7 @@ https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/res/memory_
 
 RPM/SYSTEM FPB, 32MB, 其又被作如下映射:
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/res/rpm_code_rom_ram.png
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/res/rpm_code_rom_ram.png
 
 #### 0x00000000 ~ 0x00018000
 

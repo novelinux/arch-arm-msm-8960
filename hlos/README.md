@@ -21,7 +21,7 @@ HLOS(Linux kernel)是由APPSBL(lk)加载到DDR
 
 ### 过程
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/res/appsbl_hlos.png
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/res/appsbl_hlos.png
 
 ELF Header
 ----------------------------------------
@@ -72,9 +72,9 @@ Program Headers:
 Disassembler
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/blob/master/4.x.y/kbuild/binary/arch/arm/boot/compressed/vmlinux.S
+https://github.com/novelinux/linux-4.x.y/tree/master/kbuild/binary/arch/arm/boot/compressed/vmlinux.S
 
 Code Flow
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/blob/master/4.x.y/README.md
+https://github.com/novelinux/linux-4.x.y/tree/master/README.md

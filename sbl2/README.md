@@ -30,23 +30,23 @@ SBL2是被SBL1从eMMC上加载到MIMEM/GMEM(0x2E000000 ~ 0x30000000)中执行的
 
 ### TZ
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/tz/README.md
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/tz/README.md
 
 ### RPM firmware
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/rpm/README.md
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/rpm/README.md
 
 ### 过程
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/res/sbl2_A.png
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/res/sbl2_A.png
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/res/sbl2_B.png
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/res/sbl2_B.png
 
 完成上述功能之后跳转到SBL3中去执行.
 
 ### SBL3
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/sbl3/README.md
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/sbl3/README.md
 
 ELF Header
 ----------------------------------------
@@ -97,4 +97,4 @@ Program Headers:
 Disassembler
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/sbl2/build/AAAAANAZ/SBL2_AAAAANAZA.S
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/sbl2/build/AAAAANAZ/SBL2_AAAAANAZA.S

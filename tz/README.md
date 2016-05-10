@@ -74,4 +74,4 @@ Program Headers:
 Disassembler
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/tz/tzbsp/build/AAAAANAZ/tz.S
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/tz/tzbsp/build/AAAAANAZ/tz.S

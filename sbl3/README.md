@@ -33,13 +33,13 @@ SBL3是被SBL2从eMMC上加载到DDR(0x40000000 ~ 0xFFFFFFFF)中执行的.
 
 ### 过程
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/res/sbl3.png
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/res/sbl3.png
 
 完成上述功能之后跳转到APPSBL中去执行:
 
 ### APPSBL
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/appsbl/README.md
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/appsbl/README.md
 
 ELF Header
 ----------------------------------------
@@ -90,4 +90,4 @@ Program Headers:
 Disassembler
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/sbl3/build/AAAAANAZ/SBL3_AAAAANAZA.S
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/sbl3/build/AAAAANAZ/SBL3_AAAAANAZA.S

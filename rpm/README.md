@@ -4,7 +4,7 @@ RPM firmware
 RPM firmware是被SBL2从eMMC加载到RPM Code RAM(0x00020000 ~ 0x00048000, 160KB)中执行的.
 如下图所示:
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/res/rpm_code_rom_ram.png
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/res/rpm_code_rom_ram.png
 
 架构
 ----------------------------------------
@@ -76,4 +76,4 @@ Program Headers:
 Disassembler
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/rpm//8064/build/RPM.S
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/rpm//8064/build/RPM.S

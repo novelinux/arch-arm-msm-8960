@@ -29,13 +29,13 @@ SBL1是被RPM PBL从eMMC上加载到SYSTEM IMEM(0x2A000000 ~ 0x2C000000)
 
 ### 过程
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/res/sbl1.png
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/res/sbl1.png
 
 完成上述功能之后, 复位后跳转到SBL2中执行.
 
 ### SBL2
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/sbl2/README.md
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/sbl2/README.md
 
 ELF Header
 ----------------------------------------
@@ -86,4 +86,4 @@ Program Headers:
 Disassembler
 ----------------------------------------
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/sbl1/build/AAAAANAZ/SBL1_AAAAANAZA.S
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/sbl1/build/AAAAANAZ/SBL1_AAAAANAZA.S

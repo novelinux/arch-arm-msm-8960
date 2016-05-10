@@ -28,10 +28,10 @@ PBL
 
 ### 过程
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/res/pbl.png
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/res/pbl.png
 
 完成上述功能之后跳转到SBL1中去执行.
 
 ### SBL1
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/sbl1/README.md
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/sbl1/README.md

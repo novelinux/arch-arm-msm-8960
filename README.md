@@ -9,11 +9,11 @@ Memory Map
 
 MSM8960存储系统映射如下所示:
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/memory_map.md
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/memory_map.md
 
 Boot
 ----------------------------------------
 
 MSM8960系统启动流程如下所示:
 
-https://github.com/leeminghao/doc-linux/blob/master/arch/arm/msm8960/boot.md
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/boot.md
