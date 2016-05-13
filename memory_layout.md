@@ -1,6 +1,10 @@
 Memory Layout
 ========================================
 
+msm8960存储器映射如下所示:
+
+https://github.com/novelinux/arch-arm-msm-8960/tree/master/memory_map.md
+
 在我们的实验系统中，加载完HLOS之后，MSM8960各个模块内存布局如下:
 
 存储空间布局
